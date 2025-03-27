@@ -1,5 +1,7 @@
 # MKT3434 ML GUI Uygulaması
 
+Tunahan Delisalihoğlu
+2106A027
 Bu proje, Yıldız Teknik Üniversitesi MKT3434 dersi için geliştirilmiş bir **Makine Öğrenmesi GUI uygulamasıdır**.  
 Uygulama, kullanıcıların veri yüklemesine, model seçmesine, eksik verileri işlemesine ve farklı loss fonksiyonları ile model eğitmesine olanak tanır.
 
